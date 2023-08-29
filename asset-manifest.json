@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Event-react/static/css/main.e89f9328.css",
+    "main.js": "/Event-react/static/js/main.aaea394c.js",
+    "index.html": "/Event-react/index.html",
+    "main.e89f9328.css.map": "/Event-react/static/css/main.e89f9328.css.map",
+    "main.aaea394c.js.map": "/Event-react/static/js/main.aaea394c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e89f9328.css",
+    "static/js/main.aaea394c.js"
+  ]
+}
